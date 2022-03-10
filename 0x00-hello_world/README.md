@@ -1,1 +1,2 @@
-# alx-low_level_programming
+#ALX Low level programming
+Now we're starting to get our hands dirty ;)
